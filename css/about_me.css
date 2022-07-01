@@ -1,0 +1,32 @@
+*{
+	border: solid black 0.3px;
+}
+body{
+	width: 90%;
+	background-color: white;
+	margin: 20px auto 0;
+}
+h1{
+	font-size: 5rem;
+	color: #383838;
+	margin-bottom: 50px;
+	width: 100vh;
+}
+.main{
+	width: 100%;
+	background-color: white;
+	
+	display: flex;
+}
+.main p{
+	font-size: 1em;
+}
+
+.main__photo img{
+	width: 200px;
+	height: auto;
+}
+.main__name{
+	width: 500px;
+	padding: 0 30px;
+}
